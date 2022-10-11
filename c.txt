@@ -11,3 +11,4 @@ ccc4444lasqu
 ccccc5555验证冲突本地
 cccccc 验证git commit --amend
 cccc修改内容
+cccc6666验证fetch
